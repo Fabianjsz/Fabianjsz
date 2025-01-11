@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Fabian! A 18 year old pole 🇵🇱 studying compsci in german high school
 - 👀 I’m interested in Diy Projects, 3D Printing, learning how to code and much more
 - 🌱 I’m currently learning python, but want to explore more sectors of coding!
-- ⚡ Fun fact: My Girlfriend (and soon to be wife) an I call the end of a Bread a "Brotpopo", which literally translate into "Bread butt"
+- ⚡ Fun fact: My Girlfriend (and soon to be wife) an I call the end of a Bread a "Brotpopo", which literally translates into "Bread butt"
 
 <!---
 Fabianjsz/Fabianjsz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
